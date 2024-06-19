@@ -41,6 +41,7 @@
 		11057EF22750D3FA003A891F /* XXLog_Example-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "XXLog_Example-Bridging-Header.h"; sourceTree = "<group>"; };
 		11057EF32750D3FB003A891F /* TestSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestSwift.swift; sourceTree = "<group>"; };
 		114C2BE5819AB62C233B924A /* Pods_XXLog_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XXLog_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		42F46CDD2C22D0C300FAA8F1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		49700D59BFE10ABE808A5410 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* XXLog_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XXLog_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -145,6 +146,7 @@
 			children = (
 				6003F59C195388D20070C39A /* XXAppDelegate.h */,
 				6003F59D195388D20070C39A /* XXAppDelegate.m */,
+				42F46CDD2C22D0C300FAA8F1 /* PrivacyInfo.xcprivacy */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				11057EF32750D3FB003A891F /* TestSwift.swift */,
 				71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */,
